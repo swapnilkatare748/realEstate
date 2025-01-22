@@ -11,6 +11,7 @@ function Contact() {
                <h5><b>+91</b> 9637053245</h5>
            </div>
            <div className={styles.links}>
+            
               <a href="https://www.linkedin.com/in/er-siddhant-dhomse-11b186269/"><i class="fa-brands fa-twitter"></i>  <p className={styles.icon}>Twitter</p></a>
               <a href="https://www.linkedin.com/in/swapnil-katare"><i class="fa-brands fa-linkedin-in"></i>  <p className={styles.icon}>Linkdin</p></a>
               <a href="https://www.linkedin.com/in/swapnil-katare"><i class="fa-brands fa-facebook"></i>  <p className={styles.icon}>FaceBook</p></a>
