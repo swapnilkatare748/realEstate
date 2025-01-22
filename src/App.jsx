@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
-
+import Navbar from './component/navbar/Navbar';
 import ScrollToTop from './component/ScrollTop/ScrollTop';
 import Hero from './component/heroHome/Hero';
 import About from './page/about/About';
@@ -23,7 +23,7 @@ import ServicePage from './page/servicePage/ServicePage';
 function App() {
   return (
     <Router>
-    
+      <Navbar />
       <ScrollToTop/>
       <Routes>
        
