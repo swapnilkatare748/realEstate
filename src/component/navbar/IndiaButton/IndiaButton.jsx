@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styles from './IndiaButton.module.css';
-import india from '../../../assets/icons/india.jpeg';
+import india from '../../../assets/icons/India.jpeg';
 
 function IndiaButton() {
   const [aeroDown,setAeroDown]=useState(true);
